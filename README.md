@@ -1,9 +1,9 @@
 
 # My Resume
 
-Welcome to the GitHub repository for my personal resume website! This project is a fully responsive HTML, CSS, and JavaScript resume that is deployed through GitHub Pages for easy access and distribution. You can view it [here](https://maui2023.github.io/resume/).
+Welcome to the GitHub repository for my personal resume website! This project is a fully responsive HTML, CSS, and JavaScript resume that is deployed through GitHub Pages for easy access and distribution. You can view it [here](https://get-ent-dev.github.io/MyResume/).
 
-![Resume Screenshot](https://maui2023.github.io/resume/images/screenshot.png)
+![Resume Screenshot](https://github.com/get-ent-dev/MyResume/blob/get-ent-dev/images/screenshot.png)
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ Welcome to the GitHub repository for my personal resume website! This project is
 
 ## 📄 View Resume
 
-To view the resume online, visit: [https://maui2023.github.io/resume/](https://maui2023.github.io/resume/)
+To view the resume online, visit: [https://get-ent-dev.github.io/MyResume/](https://get-ent-dev.github.io/MyResume/)
 
 ## 📄 Download PDF
 
@@ -30,11 +30,11 @@ To view the resume online, visit: [https://maui2023.github.io/resume/](https://m
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/maui2023/resume.git
+   git clone https://github.com/get-ent-dev/MyResume.git
    ```
 2. **Navigate to the Directory:**
    ```bash
-   cd resume
+   cd MyResume
    ```
 3. **Open the Resume Locally:**
    Open `index.html` in your browser to view the resume locally.
